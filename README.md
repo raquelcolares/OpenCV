@@ -1,2 +1,2 @@
 # OpenCV
-Learning Computer Vision material using OpenCV
+Computer Vision material using OpenCV
