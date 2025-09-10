@@ -7,7 +7,7 @@ Computer Vision learning material using OpenCV.
 - image manipulation
 - image annotation
 - image enhancement
-- 
+- accessing the camera
 
 #### References
 
