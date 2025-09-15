@@ -10,7 +10,13 @@ Computer Vision learning material using OpenCV.
 - accessing the camera
 - writing video
 - image filtering
-- 
+- image features and alignment
+- panorama
+- HDR
+- object tracking
+- face detection
+- TensorFlow object detection
+- pose estimation
 
 #### References
 
