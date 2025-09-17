@@ -1,6 +1,6 @@
 # OpenCV
 
-Computer Vision learning material using OpenCV. 
+This repository contains the computer vision learning material using OpenCV, which is widely used in the field of computer vision and image processing, in how to manipulate images and videos, and detect objects and faces.
 
 #### Topics:
 
